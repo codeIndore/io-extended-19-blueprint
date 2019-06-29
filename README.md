@@ -1,2 +1,2 @@
 # KotlinForJavaDev
-GDG Indore IO Extended Kotlin Everywhere  KotlinForJavaDev
+GDG Indore IO Extended Kotlin Everywhere  KotlinForJavaDev KotlinForPythonDev
